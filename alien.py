@@ -1,3 +1,5 @@
+#KnapSack Algorithm
+
 def subset(capacity, items):
 	if capacity <= 0 or items == []:
 		return 0
